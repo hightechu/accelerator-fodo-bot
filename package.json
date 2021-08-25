@@ -1,0 +1,33 @@
+{
+  "name": "hightechu-discord-bot",
+  "version": "1.2.0",
+  "description": "HighTechU Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "start:dev": "NODE_ENV=dev node index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hightechu/hightechu-discord-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "js"
+  ],
+  "author": "HighTechU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hightechu/hightechu-discord-bot/issues"
+  },
+  "homepage": "https://github.com/hightechu/hightechu-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^8.2.0",
+    "firebase": "^8.9.1",
+    "node-fetch": "^2.6.1",
+    "ws": "^7.5.3"
+  }
+}
