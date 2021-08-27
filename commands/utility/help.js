@@ -4,9 +4,9 @@ const { prefix } = require('../../config.json');
 // Help Module
 module.exports = {
     // Name of Command
-    name: 'help',
+    name: 'no',
     // Description of Command
-    description: 'A list of all my commands sent as a DM.',
+    description: 'Please check your Direct Messgaes for a list of commands!',
     // Aliases
     aliases: ['commands'],
     // Usage Instructions
@@ -27,7 +27,7 @@ module.exports = {
             return message.author.send(data, { split: true })
                 .then(() => {
                     if (message.channel.type === 'dm') return;
-                    message.reply('I\'ve sent you a DM with all my commands!');
+                    message.reply('Please check your Direct Messgaes for a list of commands!');
                 })
                 .catch((error) => {
                     console.error(`Could not send help DM to ${message.author.tag}.\n`, error);
