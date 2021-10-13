@@ -6,7 +6,8 @@ FodoBot is a discord interactive bot that helps you focus with the use of timers
 
 For more information about the commands visit the [documentation](https://hightechu.github.io/accelerator-fodo-bot).
 
-### [View the FodoBot Pitch Deck](https://github.com/hightechu/accelerator-fodo-bot/blob/main/docs/images/FodoBot-Pitch-Deck.pdf)
+###  💻 [View the FodoBot Pitch Deck](https://github.com/hightechu/accelerator-fodo-bot/blob/main/docs/images/FodoBot-Pitch-Deck.pdf)
+###  🤖 [Add FodoBot to Your Server](https://github.com/hightechu/accelerator-fodo-bot/docs)
 
 
 ## Screenshots
@@ -24,6 +25,8 @@ The project uses the [MIT LICENSE](https://choosealicense.com/licenses/mit/).
 
 ## Authors
 
-<!-- You will want modify the authors list below to include all contributing team members. -->
-
-- [@hightechu](https://github.com/hightechu)
+- Timothy
+- Georger
+- Xander
+- Taj
+- Alex
