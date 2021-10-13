@@ -4,7 +4,7 @@
 
 FodoBot is a discord interactive bot that helps you focus with the use of timers and reward systems. Our bot strives in the mission of maintaining a healthy and productive working environment in an digital-online era; thus, we have created this AI to help people to focus and stay on task. 
 
-For more information about the commands visit the [documentation](https://hightechu.github.io/accelerator-fodo-bot).
+For more information about the commands visit the [documentation](https://hightechu.github.io/accelerator-fodo-bot/docs).
 
 ###  💻 [View the FodoBot Pitch Deck](https://github.com/hightechu/accelerator-fodo-bot/blob/main/docs/images/FodoBot-Pitch-Deck.pdf)
 ###  🤖 [Add FodoBot to Your Server](https://github.com/hightechu/accelerator-fodo-bot/docs)
