@@ -26,7 +26,7 @@ The project uses the [MIT LICENSE](https://choosealicense.com/licenses/mit/).
 ## Authors
 
 - Timothy
-- Georger
+- George
 - Xander
 - Taj
 - Alex
