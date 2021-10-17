@@ -1,10 +1,10 @@
-![FodoBot](https://user-images.githubusercontent.com/26526271/137035133-e06616e6-6281-4d7b-bcb4-c23256ec2739.png)
+![image](https://user-images.githubusercontent.com/26526271/137644281-e655dadc-89c5-4c61-8c08-89ec67025305.png)
 
 ## About
 
 FodoBot is a discord interactive bot that helps you focus with the use of timers and reward systems. Our bot strives in the mission of maintaining a healthy and productive working environment in an digital-online era; thus, we have created this AI to help people to focus and stay on task. 
 
-For more information about the commands visit the [documentation](https://hightechu.github.io/accelerator-fodo-bot/docs).
+For more information about bot commands visit the FodoBot [documentation](https://hightechu.github.io/accelerator-fodo-bot/docs).
 
 ###  💻 [View the FodoBot Pitch Deck](https://github.com/hightechu/accelerator-fodo-bot/blob/main/docs/images/FodoBot-Pitch-Deck.pdf)
 ###  🤖 [Add FodoBot to Your Server](https://github.com/hightechu/accelerator-fodo-bot/docs)
@@ -12,7 +12,7 @@ For more information about the commands visit the [documentation](https://highte
 
 ## Screenshots
 
-![Bot Command Demo](https://user-images.githubusercontent.com/26526271/137035339-b16d3b3f-e7f8-4b4b-970b-6be83a8f1e63.png)
+![image](https://user-images.githubusercontent.com/26526271/137644418-ac87d429-a9ea-4b61-987a-11e46e83ad51.png)
 
 ## Technologies
 
